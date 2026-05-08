@@ -1,3 +1,5 @@
+# powerpoint Link : https://app.slidespeak.co/presentation/cmownmfx8004n08nh17em8spq/share?openPanel=ASSISTANT
+
 # AI Content Generator
 
 ## Project Overview
