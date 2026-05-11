@@ -1,6 +1,6 @@
-# powerpoint Link : https://app.slidespeak.co/presentation/cmownmfx8004n08nh17em8spq/share?openPanel=ASSISTANT
+**powerpoint Link** : https://app.slidespeak.co/presentation/cmownmfx8004n08nh17em8spq/share?openPanel=ASSISTANT
 
-# Lovable project link : https://creatio-engine-hub.lovable.app
+ **Lovable project link** : https://creatio-engine-hub.lovable.app
 
 # AI Content Generator
 
