@@ -2,7 +2,8 @@
 
  **Lovable project link** : https://creatio-engine-hub.lovable.app
 
- **portfolio Link** : 
+ **portfolio Link** : https://my-portfolio-d1p01u0m0-thabangs-projects-c8541678.vercel.app/
+ 
 
 # AI Content Generator
 # AI Content Creation Tool using Lovable
